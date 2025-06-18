@@ -19,6 +19,14 @@ Tools Used
 Example SS of using sql query over 70k rows data
  ![Screenshot 2025-06-19 000052](https://github.com/user-attachments/assets/56243cc8-f144-4669-91e6-ed7173f189c9)
 
+
+ Found the average ratings
+ ![image](https://github.com/user-attachments/assets/ad62cfa7-f7d6-4f7d-a7b9-77d6b145d690)
+
+ ![image](https://github.com/user-attachments/assets/c9a27006-4b94-44ee-8ff5-2c13d790bab7)
+
+
+
 Power Bi Analytic Dashboard showing the cancellation insights
  ![image](https://github.com/user-attachments/assets/cf9e1cf3-d6ab-43cd-8a4b-196792058dfe)
 
